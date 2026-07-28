@@ -371,4 +371,6 @@ Computer Science student interested in:
 
 # License
 
-This project is licensed for educational and personal use.
+Copyright © 2026 Doruk Ersoy. All rights reserved.
+
+This project is the intellectual property of Doruk Ersoy and is provided for portfolio and educational purposes only. No part of this project may be copied, modified, distributed, or used commercially without prior written permission from the author.
