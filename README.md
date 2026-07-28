@@ -366,6 +366,9 @@ Computer Science student interested in:
 - Cybersecurity
 - Artificial Intelligence
 - Networking
+---
+# ScreenShots
+<img width="891" height="855" alt="Screenshot 2026-07-28 at 17 16 15" src="https://github.com/user-attachments/assets/909c21eb-9129-4ba8-a17c-9392f7c33a9e" />
 
 ---
 
